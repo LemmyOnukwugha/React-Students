@@ -1,0 +1,11 @@
+.scoreContainer {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  text-align: left;
+  font-size: 14px;
+}
+
+.Orange {
+  color: rgb(211, 82, 2);
+}
